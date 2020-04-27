@@ -1,7 +1,6 @@
 ---
 title: "About"
-author: "Luciana"
-date: "4/27/2020"
+
 output: html_document
 ---
 
