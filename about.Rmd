@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-####Website creators
+#### Website creators
 
-#####Luciana Andrade
-#####Nicolas Lou
+##### Luciana Andrade
+
+##### Nicolas Lou
